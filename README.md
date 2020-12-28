@@ -7,9 +7,9 @@ When the user clicks anything off the button, the format changes back to default
 
 ### App Walk-though
 `https://recordit.co/jtNF9iQEdv` This video does the walkthrough app whereas user sees the custom text and background color usually white. 
-- activity_main.xml on layout 
-- MainActivity.java in java files
-- color.xml on values
+- `activity_main.xml` on layout 
+- `MainActivity.java` in java files
+- `color.xml` on values
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
