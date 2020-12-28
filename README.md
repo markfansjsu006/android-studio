@@ -7,7 +7,7 @@
 ### App Walk-though
 `https://recordit.co/jtNF9iQEdv` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/jtNF9iQEdv.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1609136065&Signature=EqGuc04t5Www0bUcwltFKZRstBk%3D" width=200><br>
+<img src="https://recordit.co/jtNF9iQEdv" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
