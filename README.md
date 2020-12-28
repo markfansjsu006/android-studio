@@ -11,7 +11,7 @@ When the user clicks anything off the button, the format changes back to default
 - `MainActivity.java` in java files
 - `color.xml` on values
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/jtNF9iQEdv.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1609137442&Signature=BLpz1CnsV59P74gvwx2OOGJ2Sd0%3D" ><br>
+<img src="http://g.recordit.co/jtNF9iQEdv.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
