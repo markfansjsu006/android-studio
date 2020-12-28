@@ -2,14 +2,14 @@
 ## My Application
 
 ### App Description
-`TODO://` Add app description
+User sees the custom text in a label "Hello from Mark!" These button below makes user click on these to generate the text color and change the background color. 
+When the user clicks anything off the button, the format changes back to default. 
 
 ### App Walk-though
-`https://recordit.co/jtNF9iQEdv` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="https://recordit.co/jtNF9iQEdv" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+`https://recordit.co/jtNF9iQEdv` This video does the walkthrough app whereas user sees the custom text and background color usually white. 
+- activity_main.xml on layout 
+- MainActivity.java in java files
+- color.xml on values
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
